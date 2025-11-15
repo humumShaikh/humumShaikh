@@ -1,5 +1,7 @@
 ## Hi there 👋
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="humum-shaikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/humum-shaikh?trk=profile-badge">Humum Shaikh</a></div>
+              
 <!--
 **humumShaikh/humumShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
