@@ -1,5 +1,5 @@
 ## Hi there
-Feel free to reach out to me over any queries or if you'd like to discuss some projects or ideas and I'll do my best to solve them.
+Feel free to reach out to me over any queries or if you'd like to discuss some projects or ideas.
               
 <!--
 **humumShaikh/humumShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
