@@ -1,7 +1,7 @@
 ## Hi there
 Feel free to reach out to me over any queries or if you'd like to discuss some projects or ideas.
 
-# Humum Shaikh
+<!-- # Humum Shaikh -->
 
 **Digital Design • Verification • FPGA • RF Electronics**
 
