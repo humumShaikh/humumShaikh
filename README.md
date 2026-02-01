@@ -28,7 +28,15 @@ I am a hardware-focused engineer with strong interests in **RTL design, function
 
 **RF & Electronics**
 - RF electronics fundamentals  
-- Wireless signal behavior and interference analysis  
+- Wireless signal behavior and interference analysis
+
+### Embedded Systems & Robotics
+- Microcontroller-based system design  
+- Sensor interfacing, actuators, and control logic  
+- Embedded communication protocols (SPI, I²C, UART)  
+- Real-time interaction between hardware and software  
+- Applied embedded concepts in robotics-oriented systems
+
 
 ---
 
@@ -57,7 +65,7 @@ A custom-designed serial communication protocol incorporating parity for data in
 
 ## Focus
 
-This repository serves as a collection of **structured RTL designs, protocol implementations, and verification-oriented projects**, reflecting a hardware-first engineering approach with synthesis in mind always.
+This repository serves as a collection of **structured RTL designs, embedded hardware projects, protocol implementations, and verification-oriented work**, reflecting a disciplined, hardware-first engineering approach.
 
               
 <!--
