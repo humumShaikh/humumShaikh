@@ -9,14 +9,14 @@ I am a hardware-focused engineer with strong interests in **Digital System Archi
 
 ---
 
-## Technical Expertise
+### Technical Expertise
 
 **HDL & Verification**
 - RTL design, simulation, and debugging
 - Verilog, SystemVerilog  
 - UVM-based verification  
 
-### Digital & CMOS VLSI Design
+**Digital & CMOS VLSI Design**
 - Finite State Machines and datapath design  
 - Timing-aware design: clocking, resets, and synchronization  
 - CMOS logic design at gate and transistor level  
@@ -32,7 +32,7 @@ I am a hardware-focused engineer with strong interests in **Digital System Archi
 - RF electronics fundamentals  
 - Wireless signal behavior and interference analysis
 
-### Embedded Systems & Robotics
+**Embedded Systems & Robotics**
 - Microcontroller-based system design  
 - Sensor interfacing, actuators, and control logic  
 - Embedded communication protocols (SPI, I²C, UART)  
