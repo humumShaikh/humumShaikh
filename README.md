@@ -3,7 +3,7 @@ Feel free to reach out to me over any queries or if you'd like to discuss some p
 
 <!-- # Humum Shaikh -->
 
-**Digital Design • Verification • FPGA • RF Electronics**
+**Digital Design • Verification • FPGA • Embedded Systems • CMOS VLSI • RF Electronics**
 
 I am a hardware-focused engineer with strong interests in **RTL design, functional verification, and FPGA-based system development**. My work spans from **protocol-level digital design** to **MOSFET-level understanding of circuits**, with parallel exploration in **RF electronics and wireless systems**.
 
@@ -16,10 +16,12 @@ I am a hardware-focused engineer with strong interests in **RTL design, function
 - UVM-based verification  
 - RTL design, simulation, and debugging
 
-**Digital VLSI Design**
+### Digital & CMOS VLSI Design
 - Finite State Machines and datapath design  
-- Clocking, resets, and timing-aware design  
-- MOSFET-level insight into digital circuit behavior
+- Timing-aware design: clocking, resets, and synchronization  
+- CMOS logic design at gate and transistor level  
+- Understanding of CMOS inverters, combinational and sequential circuits  
+- Power, delay, and area considerations
 
 **FPGA & Digital Protocols**
 - FPGA-oriented RTL development  
@@ -65,7 +67,7 @@ A custom-designed serial communication protocol incorporating parity for data in
 
 ## Focus
 
-This repository serves as a collection of **structured RTL designs, embedded hardware projects, protocol implementations, and verification-oriented work**, reflecting a disciplined, hardware-first engineering approach.
+This repository serves as a collection of **CMOS VLSI concepts , structured RTL designs, embedded hardware projects, protocol implementations, and verification-oriented work**, reflecting a disciplined, hardware-first engineering approach.
 
               
 <!--
