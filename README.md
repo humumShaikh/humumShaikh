@@ -12,9 +12,9 @@ I am a hardware-focused engineer with strong interests in **Digital System Archi
 ## Technical Expertise
 
 **HDL & Verification**
+- RTL design, simulation, and debugging
 - Verilog, SystemVerilog  
 - UVM-based verification  
-- RTL design, simulation, and debugging
 
 ### Digital & CMOS VLSI Design
 - Finite State Machines and datapath design  
