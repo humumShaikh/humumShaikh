@@ -3,9 +3,9 @@ Feel free to reach out to me over any queries or if you'd like to discuss some p
 
 <!-- # Humum Shaikh -->
 
-**Digital Design • Verification • FPGA • Embedded Systems • CMOS VLSI • RF Electronics**
+**Digital Design • FPGA • Verification • Embedded Systems • CMOS VLSI • RF Electronics**
 
-I am a hardware-focused engineer with strong interests in **RTL design, functional verification, and FPGA-based system development**. My work spans from **protocol-level digital design** to **MOSFET-level understanding of circuits**, with parallel exploration in **RF electronics and wireless systems**.
+I am a hardware-focused engineer with strong interests in **Digital System Architecture , RTL design, functional verification, FPGA and Embedded systems development**. My work spans from **protocol-level digital design** to **MOSFET-level understanding of circuits**, with parallel exploration in **RF electronics and wireless systems**.
 
 ---
 
