@@ -5,7 +5,7 @@ Feel free to reach out to me over any queries or if you'd like to discuss some p
 
 **Digital Design • FPGA • Embedded Systems • CMOS VLSI • RF Electronics**
 
-I am a hardware-focused engineer with strong interests in **Digital System Architecture , RTL design, functional verification, FPGA and Embedded systems development**. My work spans from **protocol-level digital design** to **MOSFET-level understanding of circuits**, with parallel exploration in **RF electronics and wireless systems**.
+I am a hardware-focused engineer with strong interests in **FPGA and Embedded systems development , Digital System Architecture , RTL design, functional verification**. My work spans from **protocol-level digital design** to **MOSFET-level understanding of circuits**, with parallel exploration in **RF electronics and wireless systems**.
 
 ---
 
