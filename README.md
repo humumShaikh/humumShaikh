@@ -11,6 +11,18 @@ I am a hardware-focused engineer with strong interests in **Digital System Archi
 
 ### Technical Expertise
 
+**FPGA & Digital Protocols**
+- FPGA-oriented RTL development  
+- AXI4-Lite, SPI, and custom serial interfaces
+- Protocol translation and control logic design
+- Custom AXI-compliant IP core development and packaging
+- Hardware accelerator development using High-Level Synthesis (HLS)
+- PS-PL co-design on Xilinx Zynq/Zynq UltraScale+ platforms
+- Processor System (PS) configuration and Programmable Logic (PL) integration
+- Vivado IP Integrator based system design and block design creation
+- FPGA subsystem integration, debugging, and hardware validation
+- Hardware/software co-design for embedded FPGA applications
+
 **HDL & Verification**
 - RTL design, simulation, and debugging
 - Verilog, SystemVerilog  
@@ -22,11 +34,6 @@ I am a hardware-focused engineer with strong interests in **Digital System Archi
 - CMOS logic design at gate and transistor level  
 - Understanding of CMOS inverters, combinational and sequential circuits  
 - Power, delay, and area considerations
-
-**FPGA & Digital Protocols**
-- FPGA-oriented RTL development  
-- AXI4-Lite, SPI, and custom serial interfaces
-- Protocol translation and control logic design
 
 **RF & Electronics**
 - RF electronics fundamentals  
