@@ -74,7 +74,7 @@ A custom-designed serial communication protocol incorporating parity for data in
 
 ## Focus
 
-This repository serves as a collection of **CMOS VLSI concepts , structured RTL designs, embedded hardware projects, protocol implementations, and verification-oriented work**, reflecting a disciplined, hardware-first engineering approach.
+This repository serves as a collection of **FPGA Development , CMOS VLSI concepts , structured RTL designs, embedded hardware projects, protocol implementations, and verification-oriented work**, reflecting a disciplined, hardware-first engineering approach.
 
               
 <!--
